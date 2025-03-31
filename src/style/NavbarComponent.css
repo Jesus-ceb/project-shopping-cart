@@ -1,0 +1,5 @@
+@media(max-with:991px){
+    .cart-icon{
+        display: none;
+    }
+}
